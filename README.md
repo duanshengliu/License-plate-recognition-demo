@@ -12,3 +12,6 @@
 ![image](https://github.com/duanshengliu/License-plate-recognition/blob/master/main/some_result_pic/test4.png)
 ![image](https://github.com/duanshengliu/License-plate-recognition/blob/master/main/some_result_pic/test5.png)
 ![image](https://github.com/duanshengliu/License-plate-recognition/blob/master/main/some_result_pic/test6.png)
+![image](https://github.com/duanshengliu/License-plate-recognition/blob/master/main/some_result_pic/test7.png)
+![image](https://github.com/duanshengliu/License-plate-recognition/blob/master/main/some_result_pic/test8.png)
+![image](https://github.com/duanshengliu/License-plate-recognition/blob/master/main/some_result_pic/test9.png)
